@@ -1,0 +1,39 @@
+body{
+    background-color: blueviolet;
+  }
+  .logoText{
+    color: white; 
+    font-size: 30px; 
+    font-weight: bolder;
+  }
+  .menuList{
+    color: white; 
+    text-transform: uppercase;
+    list-style: none;
+    position: absolute;
+    top:10px;
+    right: 100px;
+  }
+  .menuItem{
+    display: inline-block;
+    padding: 15px;
+  }
+  .firstSection{
+      background-color: white;
+      position: absolute;
+      margin: 150px;
+      height: 700px;
+      width: 1072px;
+      border-radius: 20px;
+  }
+  #firstSectionLeft{
+    position: absolute;
+    left: 10px;
+  }
+  #firstSectionRight{
+   position: absolute;
+   right: 100px
+  }
+  .aDifferentBackgroundColor{
+      background-color: black;
+  }
